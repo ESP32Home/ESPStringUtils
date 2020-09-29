@@ -1,0 +1,19 @@
+{
+    "name": "ESPStringUtils",
+    "version" : "1.0.0",
+    "description" : "utilities to interact with IDF char and struct based formats to String",
+    "keywords" : "ESP-Mesh, ip, mac, String, hex",
+    "license" : "MIT",
+    "repository":{
+        "type" : "git",
+        "url" : "https://github.com/ESP32Home/ESPStringUtils.git"
+    },
+    "authors":{
+        "name" : "wassfila",
+        "url": "https://github.com/wassfila"
+    },
+    "dependencies":{
+    },
+    "frameworks" : "arduino",
+    "platforms" : "espressif32"
+}
